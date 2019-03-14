@@ -1,0 +1,8 @@
+epoch: 0  Acc:44.830 
+epoch: 1  Acc:52.770 
+epoch: 2  Acc:59.200 
+epoch: 3  Acc:63.810 
+epoch: 4  Acc:67.680 
+epoch: 5  Acc:67.960 
+epoch: 6  Acc:71.720 
+epoch: 7  Acc:73.860 
